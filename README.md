@@ -1,1 +1,1 @@
-Izrađena aplikacija namijenjena je za vođenje statistike skladišta i upravljanje zalihama koje su na skladištu.
+# Aplikacija za vođenje statistike skladišta i planiranje zaliha
