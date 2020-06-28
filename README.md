@@ -9,7 +9,7 @@ Kako bi se aplikacija i baza podataka instalirale potrebno je napraviti sljedeć
 * Otvoriti datoteku *SkladisteBackUp.sql* te kopirati njezin sadržaj u prozoru za izvršavanje SQl upita
 
 ## Model baze podataka
-Model baze podataka prikazan je preko ERA modela, izrađenog u MySQl Workbench aplikaciji, u kojem se nalaze sve potrebne tablice i veze između njih. Sastoji se od 7 tablica i 2 slaba entiteta, odnosno tablica koje se kreiraju na vezama više na više. 
+Model baze podataka prikazan je preko ERA modela, izrađenog u MySQL Workbench aplikaciji, u kojem se nalaze sve potrebne tablice i veze između njih. Sastoji se od 7 tablica i 2 slaba entiteta, odnosno tablica koje se kreiraju na vezama više na više. 
 
 ![](https://github.com/agrgosevic/SkladisteApp/blob/master/Latex/slike/ERA.jpeg?raw=true)
 <p align="center"> Slika 1. ERA model baze podataka </p>
