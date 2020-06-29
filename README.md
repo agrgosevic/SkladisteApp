@@ -1,5 +1,5 @@
 # Aplikacija za vođenje statistike skladišta i planiranje zaliha
-Aplikacija je izrađena u sklopu projekta na kolegiju Teorija baza podataka. Služi za vođenje statistike skladišta i planiranja zalihama koje su na skladištu. Za upravljanje zalihama korištena je FIFO (engl. First-In, First-Out) strategija. Korištenjem ove strategije potrebno je prvo prodati one artikle/proizvode koji su prvi ušli na skladište. Aplikacija je izrađena u C# (Visual Studio 2019) te je popraćena s PostgreSQL bazom podataka u alatu pgAdmin 4. Također aplikacija koristi aktivnu i temporalnu bazu podataka.
+Aplikacija je izrađena u sklopu kolegija Teorija baza podataka. Služi za vođenje statistike skladišta i planiranja zalihama koje su na skladištu. Za upravljanje zalihama korištena je FIFO (engl. First-In, First-Out) strategija. Korištenjem ove strategije potrebno je prvo prodati one artikle/proizvode koji su prvi ušli na skladište. Aplikacija je izrađena u C# (Visual Studio 2019) te je popraćena s PostgreSQL bazom podataka u alatu pgAdmin 4. Također aplikacija koristi aktivnu i temporalnu bazu podataka.
 
 ## Instalacija
 Kako bi se aplikacija i baza podataka instalirale potrebno je napraviti sljedeće:
